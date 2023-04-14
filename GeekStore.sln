@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekStore.Web", "GeekStore.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekStore.IdentityServer", "GeekStore.IdentityServer\GeekStore.IdentityServer.csproj", "{5179B9E9-30FD-4B0F-BDA1-AB3E785107CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekStore.CartAPI", "GeekStore.CartAPI\GeekStore.CartAPI.csproj", "{9EF4300A-2ADF-4279-9CF2-2C1E8E9FF7A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{5179B9E9-30FD-4B0F-BDA1-AB3E785107CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5179B9E9-30FD-4B0F-BDA1-AB3E785107CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5179B9E9-30FD-4B0F-BDA1-AB3E785107CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF4300A-2ADF-4279-9CF2-2C1E8E9FF7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF4300A-2ADF-4279-9CF2-2C1E8E9FF7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF4300A-2ADF-4279-9CF2-2C1E8E9FF7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF4300A-2ADF-4279-9CF2-2C1E8E9FF7A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{195A3377-B7C7-4196-A8B8-1993B072A9D1} = {07449EB1-2B2A-4AE3-A77D-E1E0B1DB08AC}
 		{2972990D-0653-4772-B6A5-583607EAE33E} = {916376BD-3046-4AFE-AE96-7BAE689EF0EE}
 		{5179B9E9-30FD-4B0F-BDA1-AB3E785107CB} = {07449EB1-2B2A-4AE3-A77D-E1E0B1DB08AC}
+		{9EF4300A-2ADF-4279-9CF2-2C1E8E9FF7A1} = {07449EB1-2B2A-4AE3-A77D-E1E0B1DB08AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {595E9F36-11C1-4EC0-967D-D32F08D47024}
